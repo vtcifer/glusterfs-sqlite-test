@@ -142,6 +142,6 @@ I was setting up a home lab on a raspberry-pi cluster to get some practical expe
 # References
 The following discussions were key to my making the above listed configuration.
 
-https://lists.gluster.org/pipermail/gluster-users/2018-March/033656.html
-https://lists.gluster.org/pipermail/gluster-devel/2016-February/048425.html
+1. https://lists.gluster.org/pipermail/gluster-users/2018-March/033656.html
+1. https://lists.gluster.org/pipermail/gluster-devel/2016-February/048425.html
 
